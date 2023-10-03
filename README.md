@@ -1,5 +1,14 @@
 Remora.Neos.Sdk
 ==========
+
+# Archived
+Remora.Neos.Sdk has been archived with the release and announcement of
+Resonite, NeosVR's spiritual and technical successor. This repository will
+remain open to the public in a read-only state, and all new development will
+take place [here](https://github.com/Remora/Remora.Resonite.Sdk).
+
+--------------------------------------------------------------------------------
+
 Remora.Neos.Sdk is an MSBuild SDK made to simplify development of NeosVR plugins
 and mods.
 
